@@ -1,0 +1,122 @@
+[
+    {
+        "initial": "K",
+        "mean": "vt.\u543bvi.\u63a5\u543bn.\u543b",
+        "phonetic_symbol": "/kis/",
+        "word": "kiss"
+    },
+    {
+        "initial": "D",
+        "mean": "n.\u5bbf\u820d",
+        "phonetic_symbol": "[d\u0254:m]",
+        "word": "dorm"
+    },
+    {
+        "initial": "H",
+        "mean": "a.\u9965\u997f\u7684;\u6e34\u671b\u7684",
+        "phonetic_symbol": "/\u2018h\u039b\u014bgri/",
+        "word": "hungry"
+    },
+    {
+        "initial": "R",
+        "mean": "vt.\u5c55\u73b0;\u63ed\u793a\uff0c\u63ed\u9732",
+        "phonetic_symbol": "/ri\u2019vi:l/",
+        "word": "reveal"
+    },
+    {
+        "initial": "O",
+        "mean": "ad.\u53e6\u5916;\u8981\u4e0d\u7136",
+        "phonetic_symbol": "/\u2018\u039b\u00f0\u0259waiz/",
+        "word": "otherwise"
+    },
+    {
+        "initial": "G",
+        "mean": "n.\u4f53\u80b2\u9986\uff0c\u5065\u8eab\u623f",
+        "phonetic_symbol": "/d\u0292im\u2019neizj\u0259m/",
+        "word": "gymnasium"
+    },
+    {
+        "initial": "F",
+        "mean": "vt.\u9002\u5408;\u5b89\u88c5vi.\u9002\u5408",
+        "phonetic_symbol": "/fit/",
+        "word": "fit"
+    },
+    {
+        "initial": "O",
+        "mean": "n.\u7269\uff0c\u7269\u4f53;\u76ee\u7684",
+        "phonetic_symbol": "/\u2018obd\u0292ikt\u0259b\u2019d\u0292ekt/",
+        "word": "object"
+    },
+    {
+        "initial": "C",
+        "mean": "vt.\u521b\u9020;\u5f15\u8d77\uff0c\u4ea7\u751f",
+        "phonetic_symbol": "/kri(:)\u2019eit/",
+        "word": "create"
+    },
+    {
+        "initial": "B",
+        "mean": "vt.\u4f7f\u5e73\u8861;\u79f0n.\u5929\u5e73",
+        "phonetic_symbol": "/\u2018b\u00e6l\u0259ns/",
+        "word": "balance"
+    },
+    {
+        "initial": "V",
+        "mean": "a.\u5782\u76f4\u7684\uff0c\u7ad6\u5f0f\u7684",
+        "phonetic_symbol": "/\u2018v\u0259:tik\u0259l/",
+        "word": "vertical"
+    },
+    {
+        "initial": "B",
+        "mean": "n.\u6218\u5f79;\u6597\u4e89vi.\u4f5c\u6218",
+        "phonetic_symbol": "/\u2018b\u00e6tl/",
+        "word": "battle"
+    },
+    {
+        "initial": "D",
+        "mean": "a.\u5927\u80c6\u7684,\u52c7\u6562\u7684",
+        "phonetic_symbol": "[\u2018de\u0259r\u026a\u014b]",
+        "word": "daring"
+    },
+    {
+        "initial": "N",
+        "mean": "num.\u7b2c\u4e5d;\u4e5d\u5206\u4e4b\u4e00",
+        "phonetic_symbol": "/nain\u03b8/",
+        "word": "ninth"
+    },
+    {
+        "initial": "A",
+        "mean": "a.\u5b66\u9662\u7684;\u5b66\u672f\u7684",
+        "phonetic_symbol": "/\u00e6k\u0259\u2019demik/",
+        "word": "academic"
+    },
+    {
+        "initial": "E",
+        "mean": "vt.\u9009\u4e3e\uff0c\u63a8\u9009;\u9009\u62e9",
+        "phonetic_symbol": "/i\u2019lekt/",
+        "word": "elect"
+    },
+    {
+        "initial": "M",
+        "mean": "n.\u673a\u5668,\u673a\u5173,\u7ed3\u6784",
+        "phonetic_symbol": "/m\u0259\u2019\u0283i:n\u0259ri/",
+        "word": "machinery"
+    },
+    {
+        "initial": "D",
+        "mean": "n.\u91d1\u94a2\u77f3,\u94bb\u77f3;\u83f1\u5f62",
+        "phonetic_symbol": "[\u2018dai\u0259m\u0259nd]",
+        "word": "diamond"
+    },
+    {
+        "initial": "T",
+        "mean": "n.\u771f\u7406;\u771f\u5b9e;\u771f\u5b9e\u6027",
+        "phonetic_symbol": "/tru:\u03b8/",
+        "word": "truth"
+    },
+    {
+        "initial": "R",
+        "mean": "a.\u521a\u786c\u7684;\u50f5\u786c\u7684",
+        "phonetic_symbol": "/\u2018rid\u0292id/",
+        "word": "rigid"
+    }
+]
